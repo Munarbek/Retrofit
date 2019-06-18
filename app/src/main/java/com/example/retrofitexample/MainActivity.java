@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
 
     private TextView textView;
     private List<Response> Employees;
-    private  ResponceEmployee em1, em2, em3;
+   
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
